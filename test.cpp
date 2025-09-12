@@ -1,6 +1,7 @@
-include<stdio.h>
+include<iostream>
+using namespace std;
 int main()
-{
-	printf("hello world!");
+{ 
+	printf("testing..\n");
 	return 0;
 }
